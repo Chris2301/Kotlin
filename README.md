@@ -1,2 +1,2 @@
 # kotlin
-Examples and code snippets
+Examples and code snippets for everyday use
