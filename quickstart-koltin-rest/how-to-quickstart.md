@@ -1,4 +1,4 @@
-# How to build a simpple Kotlin rest api as quickly as possible
+# How to quickly build a simple Kotlin rest api
 
 1. Start in Intellij by creating a Spring boot - Maven - Kotlin project and a Spring Web dependency
 2. Create a package named `controller` or `resource` and add a kotlin class file named `<name>Controller`
